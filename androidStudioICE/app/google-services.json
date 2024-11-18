@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700199127990",
+    "project_id": "ice-analytics-363ee",
+    "storage_bucket": "ice-analytics-363ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700199127990:android:5995028233bbdfc62e8f17",
+        "android_client_info": {
+          "package_name": "com.example.ice_analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOPYaldU6oaZQUbIFmyl_IA6oXu4cMX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
