@@ -14,7 +14,7 @@ public class User {
     public User() {
         // empty constructor for firebase db //
     }
-
+// User user = new User()
 
     public User(String fName, String lName, String username, String password, String email, String phoneNumber, String type) {
         this.fName = fName;
